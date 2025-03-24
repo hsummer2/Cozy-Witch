@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4ee1e16d3b774944bab52596564eec82
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UIScreen: {fileID: 2337702797732550239, guid: 3aec33919fdb85d4a9686b498d2eddcd, type: 3}
+  - player: {fileID: 7415289400532939291, guid: b270759377029a149a55f1fa4ff4f0f1, type: 3}
+  - gameMan: {fileID: 313294444421835149, guid: 78b78046c32b41a419331329cbe2a481, type: 3}
+  - audioMan: {fileID: 7895672504552336152, guid: e23e9cfaf08eee44c9358df0d131e9a8, type: 3}
+  - battleMan: {fileID: 3123973714441592646, guid: 4d63b35da48575b409308685d2132e8d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
